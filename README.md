@@ -14,7 +14,7 @@ In the transaction block, three operations (convolution, pooling, and drop-out) 
 
 The Stochastics Gradient Descent (SGD) optimization method is used with initial learning rate 0.01
 
-The .ipynb file containes the instruction to train the model on your own dataset. I have used this model on a lymphoma cancer classification dataset <a href="https://github.com/Insiyaa/caMicroscope-tfjs-models/tree/master/lymphoma-cancer-classification">here</a>.
+The .ipynb file contains the instructions to train the model on your own dataset. I have used this model on a lymphoma cancer classification dataset <a href="https://github.com/Insiyaa/caMicroscope-tfjs-models/tree/master/lymphoma-cancer-classification">here</a>. Reach out if any issues.
 ### References
 - M. Liang, X. Hu, "Recurrent convolutional neural network for object recognition", CVPR, pp. 3367-3375, 2015.
 - "Inception Recurrent Convolutional Neural Network for Object Recognition" -
